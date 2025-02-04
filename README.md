@@ -30,6 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Users (customers)
 - Configure SLA
 - Configure Help Topics
+- Archive Maintenance Department
 
 <h2>Configuration Steps</h2>
 
@@ -166,5 +167,13 @@ Equipment Request
 Password Reset
 
 Other
+</p>
+<br />
+
+<p>
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/32012304-7a39-4622-ad55-d036ce7dff16" />
+</p>
+<p>
+Admin Panel -> Agents -> Departments -> Click on Maintenance -> Status: Archived
 </p>
 <br />

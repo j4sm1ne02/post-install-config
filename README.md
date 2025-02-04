@@ -172,8 +172,11 @@ Other
 
 <p>
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/32012304-7a39-4622-ad55-d036ce7dff16" />
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/f94b7108-abc6-4919-bd80-38c631ce290f" />
 </p>
 <p>
 Admin Panel -> Agents -> Departments -> Click on Maintenance -> Status: Archived
+
+Then go back and delete it.
 </p>
 <br />
